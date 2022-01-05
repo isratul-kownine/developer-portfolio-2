@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+     font-family: 'Roboto', sans-serif;
+     margin:0;
+}  
+.intro
+{
+    display:flex; 
+    background-image: url("bg img rotate.jpg");
+    background-repeat:repeat-y;
+} 
+h1{
+    font-size:50px;
+} 
+h3{
+    font-size:40px;
+}
+ .color-text{
+    color:crimson;
+} 
+.half-width
+{
+    width:50%;
+    padding-left:5%
+}  
+.half-width p
+{
+    font-size:20px;
+}
+.half-width img
+{
+    width:70%;
+} 
+
+.link
+{
+    font-size:20px;
+    padding:10px 40px;
+    text-decoration:none;
+    border-radius:2px;
+    background-image: linear-gradient(orange, tomato);
+    color:black;
+    font-weight:400;
+};
